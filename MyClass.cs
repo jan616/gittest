@@ -1,3 +1,3 @@
 class MyClass {
-  // add a comment    
+  // add a comment    XXXXXXXXX
 }
